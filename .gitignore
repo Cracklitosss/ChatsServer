@@ -1,10 +1,4 @@
 # Carpeta de dependencias
-node_modules/
-
-# Archivo de configuración de entorno
+node_modules
+package-lock.json
 .env
-
-# Archivos temporales
-*.log
-*.tmp
-
